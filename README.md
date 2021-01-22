@@ -3,7 +3,7 @@ Weather App developed in Node.js using the studies of "The Complete Node.js Deve
 
 This repository was created in order to deploy directly to Heroku.
 
-Commands to take notice
+COMMANDS TO TAKE NOTICE:
 
 1.- git push heroku main -> Pushes the last git push to Heroku
 
